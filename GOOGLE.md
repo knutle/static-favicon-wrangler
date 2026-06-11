@@ -1,5 +1,5 @@
 ---
-layout: favicon-page
+layout: test
 title: "GOOGLE Favicon"
 permalink: /google
 ---
